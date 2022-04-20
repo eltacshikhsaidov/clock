@@ -10,4 +10,4 @@ setInterval(() => {
     string('.hour').style.transform = `rotate(${i / 120}deg)`;
     i ++;
 
-}, 100);
+}, 1000);
